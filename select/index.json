@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "new world",
+  "base_artist": "Aiobahn",
+  "createdAt": "2026-02-17T14:15:46.934287Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A New World",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_A_New_World_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A New World",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_A_New_World_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Into the New World",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/03_Into_the_New_World_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Into The New World",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/04_Into_The_New_World_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "다시 만난 세계 Into the New World (Remix)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/05_다시_만난_세계_Into_the_New_World_(Remix)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "다시 만난 세계 (Into The New World)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/06_다시_만난_세계_(Into_The_New_World)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "다시 만난 세계 (Into The New World)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/07_다시_만난_세계_(Into_The_New_World)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "다시 만난 세계 Remix (Into the New World Remix)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/08_다시_만난_세계_Remix_(Into_the_New_World_Remix)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Livin' In A New World",
+      "artist": "The Roots feat. John-John",
+      "has_synced": true,
+      "path": "select/09_Livin'_In_A_New_World_The_Roots_feat._John-John.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Livin' In A New World",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/10_Livin'_In_A_New_World_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "New World Water",
+      "artist": "Mos Def",
+      "has_synced": true,
+      "path": "select/11_New_World_Water_Mos_Def.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "New World",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/12_New_World_Nas.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "New World Towers",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/13_New_World_Towers_Blur.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Listen to the Wind [From the New World]",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/14_Listen_to_the_Wind_[From_the_New_World]_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Brave New World",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/15_Brave_New_World_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Brave New World",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/16_Brave_New_World_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mr. Loverman (New World mix)",
+      "artist": "Shabba Ranks",
+      "has_synced": false,
+      "path": "select/17_Mr._Loverman_(New_World_mix)_Shabba_Ranks.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "new world feat.ヰ世界情緒",
+      "artist": "Aiobahn",
+      "has_synced": false,
+      "path": "select/pl_01_new_world_feat.ヰ世界情緒_Aiobahn.txt"
+    }
+  ]
+}
